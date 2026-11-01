@@ -2,11 +2,11 @@
   "name": "ANTH-IPO-DEC31",
   "symbol": "ANTHIPO31",
   "description": "Structured Market Tokens",
-  "image": "https://raw.githubusercontent.com/Aquas2/THE-PURGE-TOKEN/refs/heads/main/PURGE.png",
+  "image": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/ANTH-IPO-DEC31.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Aquas2/THE-PURGE-TOKEN/refs/heads/main/PURGE.png",
+        "uri": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/ANTH-IPO-DEC31.png",
         "type": "image/png"
       }
     ],
