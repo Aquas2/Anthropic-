@@ -2,11 +2,11 @@
   "name": "ANTH-IPO-DEC31",
   "symbol": "ANTHIPO31",
   "description": "Structured Market Tokens",
-  "image": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/ANTH-IPO-DEC31.png",
+  "image": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/Anthropic.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/ANTH-IPO-DEC31.png",
+        "uri": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/Anthropic.png",
         "type": "image/png"
       }
     ],
