@@ -1,0 +1,21 @@
+{
+  "name": "ANTH-IPO-DEC31",
+  "symbol": "ANTHIPO31",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/THE-PURGE-TOKEN/refs/heads/main/PURGE.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/THE-PURGE-TOKEN/refs/heads/main/PURGE.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EDoJJUz9SSrQJ5tmwHKLbZT6Rcospjd4ucaJrkAKF2iK",
+        "share": 100
+      }
+    ]
+  }
+}
